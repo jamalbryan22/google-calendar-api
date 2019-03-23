@@ -1,4 +1,4 @@
-# google-calendar-api
+# google-calendar-api CLI
 Working google calendar api implementation in .js for event calendar in TaharkaZ/Tech-Knights-Dev-Repo
 
 # Steps 
